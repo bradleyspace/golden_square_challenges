@@ -1,3 +1,5 @@
+import string
+
 def check_grammar(text: str) -> bool:
     """
     Parameters: 
@@ -11,5 +13,16 @@ def check_grammar(text: str) -> bool:
         Empty string -> return None
         Text starts with number (e.g. 10) -> return False
     """
+
+    punctuation = ["!", "?", "."]
+
+    if len(text) <= 0:
+        return None
+
+    if text[-1] not in punctuation:
+        return False
     
-    pass
+    if text[0] not in string.ascii_uppercase:
+        return False
+
+    return True
