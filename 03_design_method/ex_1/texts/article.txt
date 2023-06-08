@@ -1,0 +1,96 @@
+10 might remember that I took a look at a popular piece of software called Obsidian earlier in 2022. That article provoked a few … shall we say interesting reactions from a couple or three fans of the application.
+Jump forward a few months to September, 2022. While I did work with Obsidian for close to five weeks when I first gave it a test drive, I had a lingering feeling that I didn’t give Obsidian enough of a chance. And that I didn’t give it enough of a chance to grow on me. So, in late winter/early spring, 2022 (in the southern hemisphere), I decided to give Obsidian another go.
+This time, my goal was to use Obsidian exclusively for my work — no dedicated Markdown editor, no dedicated note taking tool, outliner, journal, or task management app. Just Obsidian.
+Here’s an account of how my second attempt at using Obsidian went.
+Starting with a Plan
+The problem with Obsidian, or any tool like it, is that it’s too flexible. You can do, and often try to do, everything with it. Trying to do everything with Obsidian leaves you overwhelmed by the possibilities.
+In trying to do everything, you don’t do everything that you need to do. Not by a long shot. Instead, you get pulled into the vortex of test driving plugins, themes, and templates. You look for tips and tricks. You try out workflows that are often not right for your purposes. You twiddle and twern instead of doing the work.
+I have to admit that’s kind of what happened to me during my first go ’round with Obsidian. This time, though, I started with a plan. Specifically, focusing on what I needed to do with the application rather than on everything that I could do with Obsidian.
+Those tasks were:
+Taking notes.
+Keeping a journal.
+Creating outlines for my writing.
+Writing drafts of blog posts and articles.
+Maintaining my task list.
+Creating my daily plan/schedule.
+I didn’t try to use Obsidian for life logging, for planning and tracking workouts, for quantifying myself, for saving recipes or articles or interesting quotes, or for capturing anything and everything. I didn’t think about functions that I never use, about use cases that aren't mine, or about how someone else uses Obsidian.
+There are a few people who will say that the way in which I use Obsidian is boring and that I’m not using it to its full potential (whatever that means). That’s their opinion, but I don’t find tools to be an endless source of fascination or as lands of discovery. Nor do I try to tweak or push the tools that I use as far as I can take them. I don’t see any need to do that. I use tools to get things done with the minimum of effort. That’s it.
+Getting Started
+As I did with my previous attempt at working with Obsidian, I set up a vault (in Obsidian’s parlance, a local folder of plain text Markdown files) in Nextcloud to sync my work and my application settings across my laptops. I also created a folder structure to better organize my work. That structure looked something like this:
+I dropped the templates that I use for blogging and writing into one of those folders, and also created templates for tasks, my daily schedule, and my weekly recaps.
+With that out of the way, I installed and fired up Obsidian. When prompted, I pointed it to that vault and was ready to go.
+I also installed or enabled a handful of plugins that I thought would be useful to me:
+Checklist
+Better Word Count
+Markdown Prettifier
+Obsidian Tabs
+Outline
+Pandoc Plugin
+Tasks
+I could have installed more, but the others that looked at (while interesting) weren’t much use to me. Looking back, there were probably a few plugins that I installed which I didn't actually need.
+Getting to Work
+Once I had Obsidian set up, I removed Apostrophe and Standard Notes from the dock on my desktop. Out of sight, out of mind and all that. I put Obsidian in the dock so it was front and centre.
+For the first few days, firing up Obsidian as my go-to app was a bit harder than I expected. It really is difficult to shift habits … I’m not sure that using Obsidian became natural, but automatically turning to Obsidian became easier as time went on.
+Working in Obsidian’s editor is just like working in any other Markdown or text editor. I tend to add formatting by hand, so I don’t miss toolbars or anything like that. Having said that, I couldn’t find a way to change the editor’s font — I prefer to work with a monospaced font rather than the default. I did try a plugin that offers more options to change Obsidian’s appearance but it suddenly stopped playing nicely with the application and I had to delete it.
+Since I use Write.as to do a lot of my web publishing, my workflow there didn’t change. I copied and pasted my posts from Obsidian into Write.as, in the same way I did when using Apostrophe.
+Where things got a bit more convoluted was with articles for the Plain Text Project. I write those articles in Markdown and use a script to convert them to HTML. Getting those articles ready for publication required a couple of extra steps.
+With everything else, using Obsidian was a mixed bag. I liked having, for example, my task lists and notes and schedules in one place. But that's something I can do with other applications, like Standard Notes or Joplin. In that way, Obsidian didn't offer any advantage over what I'm currently using.
+Summing Up
+I ended my second experiment with Obsidian after just a little over eight weeks. I can’t say that Obsidian grew on me, or that I grew into it. I came to the same conclusion this time around as I did with my first experiment with Obsidian. It’s a solid solution for someone who needs a tool like this.
+Aside from keeping everything in one place, Obsidian doesn’t offer me much beyond what I normally use to do my work. As I said in my previous look at Obsidian, it’s a solution for someone whose work and thinking has more scope than mine, is deeper than mine, which has more parts (moving and otherwise) than mine.
+Obsidian just isn't for me. And I don't think it ever will be.
+
+ou might remember that I took a look at a popular piece of software called Obsidian earlier in 2022. That article provoked a few … shall we say interesting reactions from a couple or three fans of the application.
+Jump forward a few months to September, 2022. While I did work with Obsidian for close to five weeks when I first gave it a test drive, I had a lingering feeling that I didn’t give Obsidian enough of a chance. And that I didn’t give it enough of a chance to grow on me. So, in late winter/early spring, 2022 (in the southern hemisphere), I decided to give Obsidian another go.
+This time, my goal was to use Obsidian exclusively for my work — no dedicated Markdown editor, no dedicated note taking tool, outliner, journal, or task management app. Just Obsidian.
+Here’s an account of how my second attempt at using Obsidian went.
+Starting with a Plan
+The problem with Obsidian, or any tool like it, is that it’s too flexible. You can do, and often try to do, everything with it. Trying to do everything with Obsidian leaves you overwhelmed by the possibilities.
+In trying to do everything, you don’t do everything that you need to do. Not by a long shot. Instead, you get pulled into the vortex of test driving plugins, themes, and templates. You look for tips and tricks. You try out workflows that are often not right for your purposes. You twiddle and twern instead of doing the work.
+I have to admit that’s kind of what happened to me during my first go ’round with Obsidian. This time, though, I started with a plan. Specifically, focusing on what I needed to do with the application rather than on everything that I could do with Obsidian.
+Those tasks were:
+Taking notes.
+Keeping a journal.
+Creating outlines for my writing.
+Writing drafts of blog posts and articles.
+Maintaining my task list.
+Creating my daily plan/schedule.
+I didn’t try to use Obsidian for life logging, for planning and tracking workouts, for quantifying myself, for saving recipes or articles or interesting quotes, or for capturing anything and everything. I didn’t think about functions that I never use, about use cases that aren't mine, or about how someone else uses Obsidian.
+There are a few people who will say that the way in which I use Obsidian is boring and that I’m not using it to its full potential (whatever that means). That’s their opinion, but I don’t find tools to be an endless source of fascination or as lands of discovery. Nor do I try to tweak or push the tools that I use as far as I can take them. I don’t see any need to do that. I use tools to get things done with the minimum of effort. That’s it.
+Getting Started
+As I did with my previous attempt at working with Obsidian, I set up a vault (in Obsidian’s parlance, a local folder of plain text Markdown files) in Nextcloud to sync my work and my application settings across my laptops. I also created a folder structure to better organize my work. That structure looked something like this:
+I dropped the templates that I use for blogging and writing into one of those folders, and also created templates for tasks, my daily schedule, and my weekly recaps.
+With that out of the way, I installed and fired up Obsidian. When prompted, I pointed it to that vault and was ready to go.
+I also installed or enabled a handful of plugins that I thought would be useful to me:
+Checklist
+Better Word Count
+Markdown Prettifier
+Obsidian Tabs
+Outline
+Pandoc Plugin
+Tasks
+I could have installed more, but the others that looked at (while interesting) weren’t much use to me. Looking back, there were probably a few plugins that I installed which I didn't actually need.
+Getting to Work
+Once I had Obsidian set up, I removed Apostrophe and Standard Notes from the dock on my desktop. Out of sight, out of mind and all that. I put Obsidian in the dock so it was front and centre.
+For the first few days, firing up Obsidian as my go-to app was a bit harder than I expected. It really is difficult to shift habits … I’m not sure that using Obsidian became natural, but automatically turning to Obsidian became easier as time went on.
+Working in Obsidian’s editor is just like working in any other Markdown or text editor. I tend to add formatting by hand, so I don’t miss toolbars or anything like that. Having said that, I couldn’t find a way to change the editor’s font — I prefer to work with a monospaced font rather than the default. I did try a plugin that offers more options to change Obsidian’s appearance but it suddenly stopped playing nicely with the application and I had to delete it.
+Since I use Write.as to do a lot of my web publishing, my workflow there didn’t change. I copied and pasted my posts from Obsidian into Write.as, in the same way I did when using Apostrophe.
+Where things got a bit more convoluted was with articles for the Plain Text Project. I write those articles in Markdown and use a script to convert them to HTML. Getting those articles ready for publication required a couple of extra steps.
+With everything else, using Obsidian was a mixed bag. I liked having, for example, my task lists and notes and schedules in one place. But that's something I can do with other applications, like Standard Notes or Joplin. In that way, Obsidian didn't offer any advantage over what I'm currently using.
+Summing Up
+I ended my second experiment with Obsidian after just a little over eight weeks. I can’t say that Obsidian grew on me, or that I grew into it. I came to the same conclusion this time around as I did with my first experiment with Obsidian. It’s a solid solution for someone who needs a tool like this.
+Aside from keeping everything in one place, Obsidian doesn’t offer me much beyond what I normally use to do my work. As I said in my previous look at Obsidian, it’s a solution for someone whose work and thinking has more scope than mine, is deeper than mine, which has more parts (moving and otherwise) than mine.
+Obsidian just isn't for me. And I don't think it ever will be.
+
+I could have installed more, but the others that looked at (while interesting) weren’t much use to me. Looking back, there were probably a few plugins that I installed which I didn't actually need.
+Getting to Work
+Once I had Obsidian set up, I removed Apostrophe and Standard Notes from the dock on my desktop. Out of sight, out of mind and all that. I put Obsidian in the dock so it was front and centre.
+For the first few days, firing up Obsidian as my go-to app was a bit harder than I expected. It really is difficult to shift habits … I’m not sure that using Obsidian became natural, but automatically turning to Obsidian became easier as time went on.
+Working in Obsidian’s editor is just like working in any other Markdown or text editor. I tend to add formatting by hand, so I don’t miss toolbars or anything like that. Having said that, I couldn’t find a way to change the editor’s font — I prefer to work with a monospaced font rather than the default. I did try a plugin that offers more options to change Obsidian’s appearance but it suddenly stopped playing nicely with the application and I had to delete it.
+Since I use Write.as to do a lot of my web publishing, my workflow there didn’t change. I copied and pasted my posts from Obsidian into Write.as, in the same way I did when using Apostrophe.
+Where things got a bit more convoluted was with articles for the Plain Text Project. I write those articles in Markdown and use a script to convert them to HTML. Getting those articles ready for publication required a couple of extra steps.
+With everything else, using Obsidian was a mixed bag. I liked having, for example, my task lists and notes and schedules in one place. But that's something I can do with other applications, like Standard Notes or Joplin. In that way, Obsidian didn't offer any advantage over what I'm currently using.
+Summing Up
+I ended my second experiment with Obsidian after just a little over eight weeks. I can’t say that Obsidian grew on me, or that I grew into it. I came to the same conclusion this time around as I did with my first experiment with Obsidian. It’s a solid solution for someone who needs a tool like this.
+Aside from keeping everything in one place, Obsidian doesn’t offer me much beyond what I normally use to do my work. As I said in my previous look at Obsidian, it’s a solution for someone whose work and thinking has more scope than mine, is deeper than mine, which has more parts (moving and otherwise) than mine.
+Obsidian just isn't for me. And I don't think it ever will be.
