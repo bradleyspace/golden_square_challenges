@@ -8,4 +8,9 @@ def check_if_todo(text: str) -> bool:
         None
     """
     
-    pass
+    string_to_search = "#TODO"
+
+    if string_to_search in text.upper():
+        return True
+    
+    return False

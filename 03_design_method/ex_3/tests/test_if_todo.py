@@ -6,7 +6,6 @@ from lib.check_if_todo import check_if_todo
 def test_empty_string():
     assert check_if_todo("") is False
 
-
 # # Given a string that contains '#TODO'
 # check_if_todo("#TODO: Write the function!") => True
 
