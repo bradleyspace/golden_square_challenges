@@ -22,34 +22,37 @@ def test_format():
 
 def test_count_words():
     result = diary.count_words()
-    assert result == 550
+    assert result == 491
 
 # # Check the reading time for specified wpm
 # DiaryEntry.reading_time(1) => 4
 
 def test_reading_time():
     result = diary.reading_time(100)
-    assert result == 6
+    assert result == 5
 
 # # These tests below need to be completed with the same class instance
 
 def test_reading_chunk():
     wpm = 100
     minutes = 2
+    words = FILE_CONTENTS.split(" ")
     chunk = diary.reading_chunk(wpm, minutes)
 
-    expected_chunk_1 = FILE_CONTENTS[0:200]
+    expected_chunk_1 = " ".join(words[0:200])
     assert chunk == expected_chunk_1
 
     chunk = diary.reading_chunk(wpm, minutes)
-    expected_chunk_2 = FILE_CONTENTS[200:400]
+    expected_chunk_2 = " ".join(words[200:400])
 
     assert chunk == expected_chunk_2
+    print("passed chunk 2!")
 
     chunk = diary.reading_chunk(wpm, minutes)
-    expected_chunk_3 = FILE_CONTENTS[400:550]
+    expected_chunk_3 = " ".join(words[400:491])
 
     assert chunk == expected_chunk_3
+
 
     chunk = diary.reading_chunk(wpm, minutes)
     
